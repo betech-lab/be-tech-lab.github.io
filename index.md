@@ -1,9 +1,13 @@
 ---
 ---
 
-# betech-lab's Website
+# BE-TECH Lab
 
-An engaging 1-3 sentence description of your lab.
+**Business, Economics and Technology Lab** is an interdisciplinary research group devoted to the study of technological change and its economic, social, organizational and political consequences.
+
+The Lab brings together scholars working on artificial intelligence, digital infrastructures, global production networks, labour markets, innovation, governance and technological sovereignty.
+
+Our aim is to develop rigorous, policy-relevant and interdisciplinary research on how emerging technologies reshape firms, economies and societies.
 
 {% include section.html %}
 
